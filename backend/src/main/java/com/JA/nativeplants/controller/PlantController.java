@@ -15,5 +15,5 @@ public class PlantController {
         this.plantRepo = plantRepo;
         this.stateRepo = stateRepo;
     }
-    
+
 }
